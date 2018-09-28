@@ -5,3 +5,9 @@
 ````
 sudo apt-get install avrdude
 ````
+* Script ausführbar machen mit:
+````
+chmod +x "Scriptname"
+````
+# Wichtig
+* Nicht vergessen programmer im Script zu wählen
