@@ -11,3 +11,4 @@ chmod +x "Scriptname"
 ````
 # Wichtig
 * Nicht vergessen programmer im Script zu wählen
+* Kann den Microcontroller zerstören !
