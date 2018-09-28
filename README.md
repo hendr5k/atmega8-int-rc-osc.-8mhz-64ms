@@ -12,3 +12,4 @@ chmod +x "Scriptname"
 # Wichtig
 * Nicht vergessen programmer im Script zu wählen
 * Kann den Microcontroller zerstören!
+* Um wieder die Standarteinstellungen zu erhalten das 1mhz Script flashen
