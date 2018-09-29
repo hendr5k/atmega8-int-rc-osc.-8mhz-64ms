@@ -10,6 +10,6 @@ sudo apt-get install avrdude
 chmod +x "Scriptname"
 ````
 # Wichtig
-* Nicht vergessen programmer im Script zu wählen
+* Nicht vergessen programmer und port im Script zu wählen
 * Kann den Microcontroller zerstören!
 * Um wieder die Standarteinstellungen zu erhalten das 1mhz Script flashen
