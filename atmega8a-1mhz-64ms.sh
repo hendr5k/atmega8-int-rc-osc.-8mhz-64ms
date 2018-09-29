@@ -13,4 +13,4 @@ sleep 1
 echo 1
 sleep 1
 echo 0
-avrdude -c "PROGRAMMER NAME" -P usb -p atmega8 -U lfuse:w:0xe1:m -U hfuse:w:0xd9:m 
+avrdude -c "PROGRAMMER NAME" -P "PORT" -p atmega8 -U lfuse:w:0xe1:m -U hfuse:w:0xd9:m 
